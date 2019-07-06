@@ -1,0 +1,41 @@
+body {
+    padding: 15px;
+    margin: 0 auto;
+}
+
+#col1 {
+    float: left;
+}
+
+#col2 {
+    background: #db4dff;
+    float: right;
+    padding: 10px 5px;
+    margin: 0px 10px;
+    color: #e6e6e6;
+}
+
+.footer {
+    position: fixed;
+    bottom: 10px;
+    width: 50%;
+}
+
+#col2 h2 {
+    margin: 10px auto;
+    padding: auto;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+#col2 ol {
+    padding: 10px 20px;
+    margin: auto;
+}
+
+#col2 li {
+    padding: 0 5px;
+    margin: auto;
+}
