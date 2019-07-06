@@ -9,7 +9,7 @@ Version: 2
 **Summary**
 > Snake game.
 
-![picture](snakegame.png)
+![picture](snakegame.PNG)
 
 
 This is a nice snake game.
