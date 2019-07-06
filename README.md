@@ -7,6 +7,11 @@ year: 2017
 Version: 2
 
 **Summary**
+> Snake game.
+
+![](../snakegame.PNG)
+
+
 This is a nice snake game.
 the score increaces by 10 each time you eat a fruit(purple rectangles). once a fruit is eaten it gets reset to a random position.
 
